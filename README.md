@@ -1,2 +1,2 @@
 # sonicFingerprint
-web audio installation that plays random "sonic fingerprints" made by different musicians simultaneously
+each floating colored circle represents a ‘sonic fingerprint’, a short-ish audio identifier made by each OneBeat Virtual fellow.  The user experience is modeled after consciousness.  As the fingerprints drift into our sphere of attention (represented by the white circle), they become clearer and more present, both aurally and visually.  Similarly, this “consciousness” can be directed anywhere on the page by moving the circle, as well as contracted or expanded to adjust our sphere of awareness.
